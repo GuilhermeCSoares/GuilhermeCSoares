@@ -1,16 +1,22 @@
-## Hi there 👋
+🎓 I'm currently pursuing a Master's degree in Economics at FEA-RP, University of São Paulo (USP).
+💼 I hold a Bachelor's degree in Economics - PUCRS.
+📊 My interests lie at the intersection of Finance, Economics, Econometrics, and Bayesian Statistics.
 
-<!--
-**GuilhermeCSoares/GuilhermeCSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 About Me
+I am passionate about understanding the complexities of financial markets and applying rigorous quantitative methods to solve real-world problems. My academic journey has equipped me with strong analytical skills, and I'm particularly drawn to the fields of Econometrics and Bayesian Statistics. I'm constantly exploring how these tools can be leveraged to gain insights into economic and financial data.
 
-Here are some ideas to get you started:
+🚀 Skills & Interests
+Finance: Financial Modeling, Risk Management, Asset Pricing
+Economics: Macroeconomics, Microeconomics, Economic Theory
+Econometrics: Time Series Analysis, Panel Data, Bayesian Econometrics
+Statistics: Bayesian Inference, Probabilistic Modeling, Statistical Computing
+📚 What I'm Working On
+Enhancing my knowledge in Bayesian Econometrics and its applications in Finance.
+Developing models to better understand and predict financial market behavior.
+Exploring the use of Machine Learning in econometric analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's Connect
+LinkedIn : linkedin.com/in/guilherme-colombo-soares-7a369619a
+Email : guilhermecsoares123@gmail.com
+
+

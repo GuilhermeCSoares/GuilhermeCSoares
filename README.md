@@ -23,7 +23,7 @@ Exploring the use of Machine Learning in econometric analysis.
 
 📫 Let's Connect
 
-LinkedIn : linkedin.com/in/guilherme-colombo-soares-7a369619a
+LinkedIn : www.linkedin.com/in/guilherme-colombo-soares-7a369619a
 
 Email : guilhermecsoares123@gmail.com
 

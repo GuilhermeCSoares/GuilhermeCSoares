@@ -25,6 +25,6 @@ Exploring the use of Machine Learning in econometric analysis.
 
 LinkedIn : www.linkedin.com/in/guilherme-colombo-soares-7a369619a
 
-Email : guilhermecsoares123@gmail.com
+Email : guilhermecsoares@usp.br
 
 

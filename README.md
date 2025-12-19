@@ -1,4 +1,4 @@
-🎓 I'm currently pursuing a Master's degree in Economics at FEA-RP, University of São Paulo (USP).
+🎓 Master's degree in Economics at FEA-RP, University of São Paulo (USP).
 
 💼 I hold a Bachelor's degree in Economics - PUCRS.
 
